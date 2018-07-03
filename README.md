@@ -1,7 +1,7 @@
 ## Take 7, on the QA server!
 
-1. Objective 1
-2. Objective 2
+1. Edit curriculum
+2. and have it redeploy
 
 ## Instructions
 
